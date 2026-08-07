@@ -4,10 +4,10 @@ Sistema de terminal para gestão completa de uma clínica médica.
 Projeto de portfólio com CRUD + 8 Relatórios de BI usando Window Functions e CTEs.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem:** Python 3.10
-- **Banco de Dados:** MySQL 8.0
-- **Biblioteca:** `mysql-connector-python`
-- **Ferramentas:** VS Code, MySQL Workbench
+ **Linguagem:** Python 3.10
+ **Banco de Dados:** MySQL 8.0
+ **Biblioteca:** `mysql-connector-python`
+ **Ferramentas:** VS Code, MySQL Workbench
 
 ## 📂 Estrutura do Projeto
 
@@ -23,11 +23,11 @@ CLINICA_MEDICA_PYTHON/
 └── README.md                   # Documentação
 
 ## 🎯 O que aprendi com o projeto
-- Conexão segura Python com MySQL usando `mysql-connector`
-- Modelagem de Banco de Dados Relacional com Chaves Estrangeiras
-- Organização de código em módulos: `conexao`, `crud`, `relatorios`
-- Uso de Window Functions: `RANK()`, `DENSE_RANK()`, `LAG()`, `ROW_NUMBER()`
-- Criação de CTEs para relatórios e análises complexas
+Conexão segura Python com MySQL usando `mysql-connector`
+ Modelagem de Banco de Dados Relacional com Chaves Estrangeiras
+ Organização de código em módulos: `conexao`, `crud`, `relatorios`
+ Uso de Window Functions: `RANK()`, `DENSE_RANK()`, `LAG()`, `ROW_NUMBER()`
+ Criação de CTEs para relatórios e análises complexas
 - Tratamento de erros com `try/except` no banco de dados
 
 ## 📝 requirements.txt
