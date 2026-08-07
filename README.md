@@ -24,11 +24,15 @@ CLINICA_MEDICA_PYTHON/
 
 ## 🎯 O que aprendi com o projeto
 Conexão segura Python com MySQL usando `mysql-connector`
+
  Modelagem de Banco de Dados Relacional com Chaves Estrangeiras
+ 
  Organização de código em módulos: `conexao`, `crud`, `relatorios`
+ 
  Uso de Window Functions: `RANK()`, `DENSE_RANK()`, `LAG()`, `ROW_NUMBER()`
  Criação de CTEs para relatórios e análises complexas
-- Tratamento de erros com `try/except` no banco de dados
+
+Tratamento de erros com `try/except` no banco de dados
 
 ## 📝 requirements.txt
 mysql-connector-python
